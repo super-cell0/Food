@@ -1,0 +1,8 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "贝蒂小熊";
+/* Bundle name */
+"CFBundleName" = "Food";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "您需要授予应用程序访问您的相机的权限才能拍照";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "您需要授予应用程序访问您的照片库的权限，以便您可以选择自己喜欢的餐厅照片";

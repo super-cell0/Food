@@ -1,0 +1,117 @@
+
+/* Class = "UITextField"; placeholder = "填写餐厅类型"; ObjectID = "0Qv-jk-xeW"; */
+"0Qv-jk-xeW.placeholder" = "填写餐厅类型";
+
+/* Class = "UIButton"; configuration.title = "Sad"; ObjectID = "3l3-da-g3J"; */
+"3l3-da-g3J.configuration.title" = "Sad";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3l3-da-g3J"; */
+"3l3-da-g3J.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "5CI-Qa-NaU"; */
+"5CI-Qa-NaU.text" = "Type";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "Ahi-ew-Qcr"; */
+"Ahi-ew-Qcr.text" = "Phone Number";
+
+/* Class = "UITextField"; placeholder = "填写餐厅名称"; ObjectID = "B6o-2L-Rug"; */
+"B6o-2L-Rug.placeholder" = "填写餐厅名称";
+
+/* Class = "UITextField"; placeholder = "填写餐厅地址"; ObjectID = "BWN-6V-xOQ"; */
+"BWN-6V-xOQ.placeholder" = "填写餐厅地址";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "BZd-lH-toy"; */
+"BZd-lH-toy.text" = "Type";
+
+/* Class = "UINavigationItem"; title = "Delicious"; ObjectID = "EsR-YL-hPI"; */
+"EsR-YL-hPI.title" = "Delicious";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "Kht-DX-Bhn"; */
+"Kht-DX-Bhn.title" = "保存";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "L8N-FF-20w"; */
+"L8N-FF-20w.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "MsO-LL-RWw"; */
+"MsO-LL-RWw.text" = "ADDRESS";
+
+/* Class = "UIButton"; configuration.title = "Awesome"; ObjectID = "OMf-UW-blw"; */
+"OMf-UW-blw.configuration.title" = "Awesome";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OMf-UW-blw"; */
+"OMf-UW-blw.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cool"; ObjectID = "Pxc-hL-osb"; */
+"Pxc-hL-osb.configuration.title" = "Cool";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pxc-hL-osb"; */
+"Pxc-hL-osb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Full Address"; ObjectID = "RoK-44-SGg"; */
+"RoK-44-SGg.text" = "Full Address";
+
+/* Class = "UILabel"; text = "Full Adress"; ObjectID = "Sj1-lH-slr"; */
+"Sj1-lH-slr.text" = "Full Adress";
+
+/* Class = "UIButton"; configuration.title = "评分！"; ObjectID = "Wfj-pw-rWo"; */
+"Wfj-pw-rWo.configuration.title" = "评分！";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wfj-pw-rWo"; */
+"Wfj-pw-rWo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ADRESS"; ObjectID = "XnQ-ao-asL"; */
+"XnQ-ao-asL.text" = "ADRESS";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "YFF-8y-MeI"; */
+"YFF-8y-MeI.text" = "Phone";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "bBf-sd-eYi"; */
+"bBf-sd-eYi.text" = "Location";
+
+/* Class = "UINavigationItem"; title = "New Restaurant"; ObjectID = "d0H-zf-OUO"; */
+"d0H-zf-OUO.title" = "New Restaurant";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "dW0-Lu-Ktc"; */
+"dW0-Lu-Ktc.text" = "Description";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "eJ9-rA-uf0"; */
+"eJ9-rA-uf0.text" = "Type";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "f04-6h-tgI"; */
+"f04-6h-tgI.text" = "Phone";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "fNp-t8-kWR"; */
+"fNp-t8-kWR.text" = "Name";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "jld-cF-gZB"; */
+"jld-cF-gZB.text" = "Name";
+
+/* Class = "UIBarButtonItem"; title = "添加"; ObjectID = "kgf-Xy-dau"; */
+"kgf-Xy-dau.title" = "添加";
+
+/* Class = "UITextField"; placeholder = "填写餐厅电话"; ObjectID = "mKb-yL-5K7"; */
+"mKb-yL-5K7.placeholder" = "填写餐厅电话";
+
+/* Class = "UIButton"; configuration.title = "Happy"; ObjectID = "oev-cS-bGK"; */
+"oev-cS-bGK.configuration.title" = "Happy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oev-cS-bGK"; */
+"oev-cS-bGK.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "一次很棒的餐厅体验"; ObjectID = "tJB-tn-T6G"; */
+"tJB-tn-T6G.text" = "一次很棒的餐厅体验";
+
+/* Class = "UIButton"; configuration.title = "Angry"; ObjectID = "uIX-5x-QCT"; */
+"uIX-5x-QCT.configuration.title" = "Angry";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uIX-5x-QCT"; */
+"uIX-5x-QCT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "uZt-ZX-wqU"; */
+"uZt-ZX-wqU.text" = "Description";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "wem-un-Rr8"; */
+"wem-un-Rr8.text" = "Address";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "z3v-sd-VdO"; */
+"z3v-sd-VdO.text" = "Name";
